@@ -1,11 +1,10 @@
 {
-    "name": "cli-alerts",
+    "name": "cli-alerts-stripari",
     "version": "1.0.1",
     "dependencies": {
         "chalk": "4.0",
-        "install": "^0.13.0",
-        "log-symbols": "4.0",
-        "npm": "^9.2.0"
+        "emoji-log-vscode": "^1.0.1",
+        "log-symbols": "4.0"
     },
     "devDependencies": {
         "prettier": "^2.8.1"
